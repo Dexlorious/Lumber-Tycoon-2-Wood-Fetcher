@@ -1,8 +1,12 @@
 # Lumber-Tycoon-2-Wood-Fetcher
 
+## Screenshot
+
+![Screenshot of it](https://i.imgur.com/jq9z9Eo.png)
+
 A small project that I decided to turn into a fully working wood fetcher.
 
-      Update Log
+## Update Log
 
 === 8/14/2020
 
@@ -38,12 +42,12 @@ A small project that I decided to turn into a fully working wood fetcher.
 - Cleaned Up Internal Code
 - As Of 6/20/20 (June 20, 2020) All Axes Are Supported (Except Gold Axe)
 
-      WIP List
+## Things I Want To Add/Fix
 
 - Tree Age Detection
 - Override
 
-      TODO List
+## TODO List
 - Chat Minifying For Tree Types (i.e "Palm" could be "Pa")
 - Descriptions For Each Command
 - Fix For End Times Tree
