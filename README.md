@@ -1,10 +1,10 @@
-# Lumber-Tycoon-2-Wood-Fetcher
+# Lumber-Tycoon-2-Wood-Fetcher (Chat Version)
+
+Old but gold, the original wood fetcher i made
 
 ## Screenshot
 
 ![Screenshot of it](https://i.imgur.com/jq9z9Eo.png)
-
-A small project that I decided to turn into a fully working wood fetcher.
 
 ## Update Log
 
