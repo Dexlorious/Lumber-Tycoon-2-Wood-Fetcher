@@ -1,6 +1,6 @@
 # Lumber-Tycoon-2-Wood-Fetcher (Chat Version)
 
-Old but gold, the original wood fetcher i made
+Old but gold, the original wood fetcher i made (GUI Is On Other Branch)
 
 ## Screenshot
 
