@@ -1,4 +1,5 @@
 # Lumber-Tycoon-2-Wood-Fetcher
+Tester1.0
 
 A small project that I decided to turn into a fully working wood fetcher.
 
