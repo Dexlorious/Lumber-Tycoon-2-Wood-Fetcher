@@ -1,3 +1,4 @@
+Hopefully fixed bug where you could sit in a car when teleporting
 # Lumber-Tycoon-2-Wood-Fetcher (GUI Version)
 After making the chat version, I learned and have made a GUI version with easier usage, more features, and better methods.
 
