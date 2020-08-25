@@ -1,3 +1,6 @@
+-- Selector That Gives Option For Chat Or GUI Version --
+-- the8bitdude11 --
+
 local partsWithId = {}
 local awaitRef = {}
 
