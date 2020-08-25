@@ -25,3 +25,10 @@ Tweens to the tree's position
 ##
 	Kill
 Kills your character and teleports them when they respawn (Axes Will Not Drop)
+
+## Misc Features
+	Exploit Detection
+This GUI can detect WeAreDevs, EasyExploits, Krnl, Protosmasher, Sirhurt, Synapse, and CheatSquad
+##
+	Zoomable Viewport
+You can use your mouse wheel to zoom in or out on the viewport. There is also a reset button to reset view
